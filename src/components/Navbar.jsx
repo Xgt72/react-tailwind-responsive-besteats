@@ -77,7 +77,7 @@ export default function Navbar() {
                     Best <span className="font-bold">Eats</span>
                 </h2>
                 <nav>
-                    <ul>
+                    <ul className="pl-4">
                         <li className="text-xl py-4 flex">
                             <TbTruckDelivery className="mr-4" size={25} />{" "}
                             Orders
